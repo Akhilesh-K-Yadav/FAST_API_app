@@ -1,5 +1,3 @@
-# https://www.youtube.com/watch?v=0sOvCWFmrtA
-
 from typing import Union
 from fastapi import FastAPI, Response, status, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
